@@ -1,11 +1,11 @@
 # MediaWiki-Vagrant-CentOS
-##Descripcion:
+## Descripcion:
 
 
 Aqui enseño como levantar una caja vagrant CentOS 7 Que instale automaticamente LAMP y ademas MediaWiki, lista para configurar desde el navegador.
 
 
-###Pasos para su instalacion:
+### Pasos para su instalacion:
 
 1. Partimos de la base de que ya tienes instalado Vagrant, si no es asi descarga el archivo de como isntalar vagrant que dejo arriba:
 
@@ -27,5 +27,7 @@ Aqui enseño como levantar una caja vagrant CentOS 7 Que instale automaticamente
    * vagrant up
    
 6. Ya estaria todo listo por lo que podemos entrar con vagrant ssh y mirar la ip para conectarnos al servidor y configurar mediawiki.
-  >Aqui os dejo un video de como se hace en mi canal de youtube [Enlace al video](https://www.youtube.com/watch?v=YLBoRdCtbSY&feature=youtu.be)
+ 
+ #Enlaces:
+ >Aqui os dejo un video de como se hace en mi canal de youtube [Enlace al video](https://www.youtube.com/watch?v=YLBoRdCtbSY&feature=youtu.be)
   
