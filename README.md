@@ -30,4 +30,5 @@ Aqui enseño como levantar una caja vagrant CentOS 7 Que instale automaticamente
  
  #Enlaces:
  >Aqui os dejo un video de como se hace en mi canal de youtube [Enlace al video](https://www.youtube.com/watch?v=YLBoRdCtbSY&feature=youtu.be)
-  
+ 
+ .
